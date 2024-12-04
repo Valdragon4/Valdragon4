@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, Je m'appelle Valentin</h1>
 <h3 align="center">Je suis étudiant en informatique et je vous partage mes projets.</h3>
 
-- Je travaille actuellement sur un site de création de tournois league of legend **The Garden Lol**
+- Je travaille actuellement sur un site de création de tournois league of legend <a href="https://github.com/Valdragon4/thegardenlol">The Garden Lol</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
